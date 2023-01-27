@@ -9,7 +9,25 @@ This demo implements a simple drawing program based on a circle brush.
 
 ## Results
 
-TODO: Put images of what you've made here
+
+<p float='left'>
+<img src="Draw1.png" alt="Terminal1" width="250">
+<img src="Terminal1.png" alt="Terminal1" width="300">
+</p>
+<p float='left'>
+<img src="Draw2.png" alt="Terminal1" width="250">
+<img src="Terminal2.png" alt="Terminal2" width="300">
+</p>
+
+<p float='left'>
+<img src="Draw3.png" alt="Terminal3" width="250">
+<img src="Terminal3.png" alt="Terminal3" width="300">
+</p>
+
+<p float='left'>
+<img src="Draw4.png" alt="Terminal3" width="250">
+<img src="Terminal4.png" alt="Terminal4" width="300">
+</p>
 
 ## How to build
 

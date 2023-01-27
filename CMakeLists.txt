@@ -28,7 +28,7 @@ elseif (APPLE)
   find_library(GLFW glfw)
   add_definitions(-DAPPLE)
 
-  include_directories(/System/Library/Frameworks /usr/local/include)
+  include_directories(external/include /System/Library/Frameworks /usr/local/include)
   set(CORE ${GLFW} ${GL_LIB})
   set(EXECUTABLE_OUTPUT_PATH ${CMAKE_SOURCE_DIR}/bin)
 
